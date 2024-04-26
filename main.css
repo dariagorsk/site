@@ -1,10 +1,45 @@
 h2 {
     color: black;
-    font: inter;
+    font-size: 4em;
+    position: absolute;
+    top: 120px; 
+    left: 850px;
 }
 h3 {
     color:black;
+    font-size: 2.3em;
+    position: absolute;
+    bottom: 200px;
+    right: 200px;
 }
 h5 {
     color:black;
+    font-size: 1.6em;
+    position: absolute;
+    top: 60px;
+    left: 70px;
+}
+a {
+    text-decoration: none;
+    color:black;
+    font-weight: normal;
+}
+#content-creation {
+    font-size: 2.9em;
+    position:absolute;
+    bottom: 90px;
+    left: 300px;
+}
+.illustration {
+    position: absolute;
+    top: 250px;
+    left:400px;
+    border: 1px solid black;
+    overflow: hidden;
+    height: 200px;
+    width: 200px;
+}
+.illustration img {
+    width: 100%; 
+    height: auto;
 }
