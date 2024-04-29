@@ -1,3 +1,4 @@
+
 .animations {
     text-decoration: none;
     font-weight: normal;
@@ -5,4 +6,45 @@
     top: 10px;
     right: 300px;
     font-size: 2.5em;
+    z-index: 1;
+}
+.gif1 {
+    position: relative;
+    top: 200px;
+    left: 230px;
+}
+.gif2 {
+    position: absolute;
+    top: 500px;
+    right: 250px;
+}
+.gif3 {
+    position: absolute;
+    top: 1000px;
+    left: 260px;
+}
+.gif4 {
+    position: absolute;
+    top: 1300px;
+    right: 250px;
+}
+.gif5 {
+    position: absolute;
+    top: 1800px;
+    left: 260px;
+}
+.gif6 {
+    position: absolute;
+    top: 2100px;
+    right: 250px;
+}
+.gif7 {
+    position: absolute;
+    top: 2600px;
+    left: 180px;
+}
+.gif8 {
+    position: absolute;
+    top: 2900px;
+    right: 250px;
 }
